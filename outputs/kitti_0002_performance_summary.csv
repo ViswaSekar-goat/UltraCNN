@@ -1,0 +1,10 @@
+Metric,Value
+Sequence,0002
+Frames available,233
+Frames processed,233
+Total detections,1423
+Unique track IDs,52
+Detections with valid depth,1411
+Depth coverage (%),99.16
+Pipeline elapsed time (s),49.87
+Processing throughput (FPS),4.67
